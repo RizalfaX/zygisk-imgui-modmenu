@@ -3,6 +3,6 @@
 
 // TODO: change this
 #define TargetLibName "libil2cpp.so"
-#define GamePackageName "com.code.analyze"
+#define GamePackageName "com.aim.racing"
 
 #endif //ZYGISK_IMGUI_MODMENU_GAME_H

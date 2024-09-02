@@ -1,9 +1,9 @@
 ext {
-    moduleLibraryName = "imgui_modmenu"
-    magiskModuleId = "zygisk_imgui_modmenu"
-    moduleName = "ImGui ModMenu"
-    moduleAuthor = "AKNoryx28"
-    moduleDescription = "ImGui android menu."
-    moduleVersion = "v1.0.0"
+    moduleLibraryName = "zygisk_sample"
+    magiskModuleId = "zygisk_module_sample"
+    moduleName = "Zygisk Module Sample"
+    moduleAuthor = "Guest"
+    moduleDescription = "A sample project fo.r building Zygisk modules."
+    moduleVersion = "v1.0"
     moduleVersionCode = 1
 }
